@@ -25,7 +25,7 @@
 
 | Проект | Ссылка | Бизнес-задача | Инструменты |
 |------|--------|--------------|------------|
-| **BI Dashboard — Adventure Works** | [Интерактивный дашборд](https://github.com/SVNasonkova/portfolio_datalens_adventure_works) | Анализ продаж и поиск точек роста по продуктам и регионам | DataLens, SQL |
+| **BI Dashboard — Adventure Works** | [Репозиторий](https://github.com/SVNasonkova/portfolio_datalens_adventure_works) | Анализ продаж и поиск точек роста по продуктам и регионам | DataLens |
 | **A/B Testing Portfolio** | [Репозиторий](https://github.com/SVNasonkova/portfolio_ab_testing) | Проверка продуктовых и маркетинговых гипотез | Python, статистика |
 | **Python Projects** | [Репозиторий](https://github.com/SVNasonkova/portfolio_python) | Исследовательский анализ данных и визуализация | Python |
 | **SQL Projects** | [Репозиторий](https://github.com/SVNasonkova/portfolio_sql) | Аналитические запросы для бизнес-метрик | SQL |
