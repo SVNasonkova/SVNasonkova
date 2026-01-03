@@ -1,5 +1,13 @@
-# Привет, я Светлана Nasonkova 👋  
-**Data Analyst | BI & A/B Testing**  
+# Привет, я Светлана Nasonkova  
+**Data Analyst | BI & A/B Testing**
+
+![Python](https://img.shields.io/badge/Python-pandas%20%7C%20numpy-blue)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-lightgrey)
+![BI](https://img.shields.io/badge/BI-Yandex%20DataLens%20%7C%20Power%20BI-yellow)
+![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables%20%7C%20Charts-green)
+<br>
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Statistics-orange)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-KPI%20%7C%20Funnels-purple)
 
 Я создаю аналитические решения для бизнеса: интерактивные дашборды, A/B-тесты, анализ данных и формулировка гипотез для роста продукта и продаж.
 
@@ -13,23 +21,25 @@
 
 ---
 
-## 🧩 Портфолио‑каталог проектов
+## 🧩 Портфолио проектов
 
-| Проект | Превью | Ссылка | Кратко |
-|--------|--------|--------|--------|
-| **BI Dashboard — Adventure Works** | ![Общий вид](https://github.com/SVNasonkova/portfolio_datalens_adventure_works/raw/main/assets/dashboard_overview.PNG) | [Интерактивный дашборд](https://svnasonkova.github.io/portfolio_datalens_adventure_works/datalens-adventure-works/) | Анализ продаж и выручки по продуктам, категориям и регионам, выявление точек роста и генерация гипотез для A/B-тестов. |
-| **A/B Testing Portfolio** | ![A/B Testing](https://github.com/SVNasonkova/portfolio_ab_testing/raw/main/assets/ab_test_preview.png) | [Репозиторий](https://github.com/SVNasonkova/portfolio_ab_testing) | Кейсы по проверке продуктовых и маркетинговых гипотез через A/B-тесты с анализом результатов. |
-| **Python Projects** | ![Python](https://github.com/SVNasonkova/portfolio_python/raw/main/assets/python_preview.png) | [Репозиторий](https://github.com/SVNasonkova/portfolio_python) | Анализ данных и визуализация с использованием Python (pandas, matplotlib, seaborn, plotly). |
-| **SQL Projects** | ![SQL](https://github.com/SVNasonkova/portfolio_sql/raw/main/assets/sql_preview.png) | [Репозиторий](https://github.com/SVNasonkova/portfolio_sql) | Аналитика данных с использованием SQL: фильтры, агрегации, объединение таблиц. |
-| **Excel Projects** | ![Excel](https://github.com/SVNasonkova/portfolio_excel/raw/main/assets/excel_preview.png) | [Репозиторий](https://github.com/SVNasonkova/portfolio_excel) | Анализ данных и визуализация через Excel, сводные таблицы, диаграммы, KPI. |
-| **Unit Economics Projects** | ![Unit Economics](https://github.com/SVNasonkova/portfolio_unit_economics/raw/main/assets/unit_preview.png) | [Репозиторий](https://github.com/SVNasonkova/portfolio_unit_economics) | Расчет юнит-экономики и ключевых финансовых показателей продукта или бизнеса. |
+| Проект | Ссылка | Бизнес-задача | Инструменты |
+|------|--------|--------------|------------|
+| **BI Dashboard — Adventure Works** | [Интерактивный дашборд](...) | Анализ продаж и поиск точек роста по продуктам и регионам | DataLens, SQL |
+| **A/B Testing Portfolio** | [Репозиторий](...) | Проверка продуктовых и маркетинговых гипотез | Python, статистика |
+| **Python Projects** | [Репозиторий](...) | Исследовательский анализ данных и визуализация | Python |
+| **SQL Projects** | [Репозиторий](...) | Аналитические запросы для бизнес-метрик | SQL |
+| **Excel Projects** | [Репозиторий](...) | Анализ данных и отчёты | Excel |
+| **Unit Economics Projects** | [Репозиторий](...) | Расчёт юнит-экономики и KPI | Excel, Python |
+
 
 ---
 
 ## 📫 Контакты
-- Telegram: [t.me/SvetlNas](https://t.me/SvetlNas)  
-- Email: your.email@example.com  
+- Telegram: [t.me/SvetlNas](https://t.me/SvetlNas)
+- Email: svnasonkova@gmail.com
 
 ---
 
-*Все проекты демонстрируют подход "данные → гипотезы → решения" и ориентированы на бизнес-результат.*
+*Подход: данные → гипотезы → решения. Все проекты ориентированы на бизнес-результат.*
+
