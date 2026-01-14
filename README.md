@@ -1,4 +1,4 @@
-# Привет, я Светлана Насонкова  
+# Здравствуйте, я Светлана Насонкова  
 **Data Analyst | BI & A/B Testing**
 
 ![Python](https://img.shields.io/badge/Python-pandas%20%7C%20numpy-blue)
@@ -9,7 +9,7 @@
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Statistics-orange)
 ![Product Analytics](https://img.shields.io/badge/Product%20Analytics-KPI%20%7C%20Funnels-purple)
 
-Я создаю аналитические решения для бизнеса: интерактивные дашборды, A/B-тесты, анализ данных и формулировка гипотез для роста продукта и продаж.
+Я создаю аналитические решения для бизнеса: разрабатываю интерактивные дашборды, провожу A/B-тесты, анализирую данные и формулирую продуктовые гипотезы для роста ключевых метрик и выручки.
 
 ---
 
